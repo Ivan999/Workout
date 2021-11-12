@@ -262,6 +262,7 @@ label {
     width: 560px;
     height: 500px;
     margin: 0;
+    z-index: 1;
   }
 
   .block__wrapper-title {
